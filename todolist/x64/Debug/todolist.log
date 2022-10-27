@@ -1,0 +1,10 @@
+﻿  Functions.cpp
+D:\РПО\С++\todolist\todolist\Functions.cpp(173,15): warning C4244: return: преобразование "float" в "int", возможна потеря данных
+D:\РПО\С++\todolist\todolist\Functions.cpp(324,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\РПО\С++\todolist\todolist\Functions.cpp(325,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\РПО\С++\todolist\todolist\Functions.cpp(402,22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\РПО\С++\todolist\todolist\Functions.cpp(423,22): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\РПО\С++\todolist\todolist\Functions.cpp(456,9): warning C4101: n: неиспользованная локальная переменная
+  todolist.cpp
+  Создание кода...
+  todolist.vcxproj -> D:\РПО\С++\todolist\x64\Debug\todolist.exe
